@@ -45,7 +45,7 @@ O sistema:
 
 ## 🖥️ Simulação no Tinkercad
 
-🔗 [Clique aqui para abrir o projeto no Tinkercad]([https://www.tinkercad.com/things/SEU-LINK-AQUI](https://www.tinkercad.com/things/2Xl3MTinNeT-gs-edge-computing))
+🔗 [Clique aqui para abrir o projeto no Tinkercad](https://www.tinkercad.com/things/SEU-LINK-AQUI](https://www.tinkercad.com/things/2Xl3MTinNeT-gs-edge-computing))
 
 > ✅ Use os sliders dos sensores para simular chuva e alagamento  
 > ✅ Pressione os botões para testar os modos "Emergência" e "Reset"
