@@ -1,3 +1,7 @@
+# Integrantes do Grupo: [ Felippe Nascimento Silva | Gabriel dos Santos Hemeterio | Matheus Hideki Doroszewski Yoshimura ]
+# RMs: [562123    |   566243   |   564970]
+
+
 # 🌊 Sistema de Monitoramento de Enchentes com Arduino  
 **Projeto de Edge Computing & IoT**
 
