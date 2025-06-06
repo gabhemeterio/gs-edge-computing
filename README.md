@@ -45,7 +45,7 @@ O sistema:
 
 ## 🖥️ Simulação no Tinkercad
 
-🔗 [Clique aqui para abrir o projeto no Tinkercad](https://www.tinkercad.com/things/SEU-LINK-AQUI)
+🔗 [Clique aqui para abrir o projeto no Tinkercad]([https://www.tinkercad.com/things/SEU-LINK-AQUI](https://www.tinkercad.com/things/2Xl3MTinNeT-gs-edge-computing))
 
 > ✅ Use os sliders dos sensores para simular chuva e alagamento  
 > ✅ Pressione os botões para testar os modos "Emergência" e "Reset"
@@ -54,7 +54,7 @@ O sistema:
 
 ## 🎬 Vídeo Demonstrativo
 
-📺 [Assista ao vídeo explicativo no YouTube](https://youtu.be/SEU-LINK-AQUI)
+📺 [Assista ao vídeo explicativo no YouTube](https://youtu.be/W6aEQC4Ioj0)
 
 ---
 
@@ -70,7 +70,7 @@ O sistema:
 
 ## 📂 Código Fonte
 
-- Arquivo: [`monitoramento_enchentes.ino`](./monitoramento_enchentes.ino)
+- Arquivo: [`monitoramento_enchentes.ino`](.)
 - Estruturado com:
   - ✅ Comentários explicativos
   - ✅ Boa indentação
