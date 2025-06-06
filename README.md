@@ -70,7 +70,7 @@ O sistema:
 
 ## 📂 Código Fonte
 
-- Arquivo: [`monitoramento_enchentes.ino`](.)
+- Arquivo: [`gs-edge-computing.ino`](.gs-edge-computing.ino)
 - Estruturado com:
   - ✅ Comentários explicativos
   - ✅ Boa indentação
