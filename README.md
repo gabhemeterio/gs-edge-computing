@@ -96,4 +96,4 @@ O sistema:
 
 ---
 
-**Desenvolvido para fins educacionais - Projeto de IoT & Edge Computing 2024.**
+**Desenvolvido para fins educacionais - Projeto de IoT & Edge Computing 2025.**
