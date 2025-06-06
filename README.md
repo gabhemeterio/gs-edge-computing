@@ -1,9 +1,12 @@
-# gs-edge-computing
-🛠️ Sistema de Monitoramento de Enchentes com Arduino – Edge Computing & IoT
-📌 Descrição do Problema
+#🛠️ Sistema de Monitoramento de Enchentes com Arduino – Edge Computing & IoT
+
+
+#📌 Descrição do Problema
 Em muitas cidades brasileiras, enchentes causadas por chuvas intensas alagam ruas e residências, especialmente em áreas de risco com pouca drenagem. Esses eventos resultam em prejuízos materiais, interrupções no tráfego e riscos à vida. É fundamental ter um sistema acessível e automatizado que possa alertar os moradores ou gestores locais antes que o alagamento se agrave.
 
-💡 Visão Geral da Solução
+
+
+#💡 Visão Geral da Solução
 Este projeto consiste em um sistema físico de monitoramento baseado em Arduino, que utiliza sensores e atuadores para:
 
 Monitorar o nível da água e a ocorrência de chuva.
@@ -18,7 +21,10 @@ Acionar um servo motor simulando a fechadura de uma comporta de drenagem.
 
 Possui botões físicos para ativar emergência e resetar o sistema.
 
-🧰 Componentes Utilizados (no Tinkercad)
+
+
+#🧰 Componentes Utilizados (no Tinkercad)
+
 Arduino UNO R3
 
 2 sensores de umidade (nível de água e chuva)
@@ -39,7 +45,10 @@ Resistores de 220Ω e 10kΩ
 
 Protoboard e jumpers
 
-🖥️ Guia para Simular no Tinkercad
+
+
+
+#🖥️ Guia para Simular no Tinkercad
 Acesse o projeto pelo link abaixo:
 🔗 Clique aqui para abrir no Tinkercad
 
@@ -49,16 +58,23 @@ Clique em “Start Simulation” no canto superior direito.
 
 Interaja com os sensores (ajuste os sliders nos sensores de umidade) e pressione os botões para testar a emergência e o reset.
 
-🎬 Link para o Vídeo Demonstrativo
+
+
+
+#🎬 Link para o Vídeo Demonstrativo
 📺 Assistir no YouTube
 
-🧠 Funcionamento Resumido
+
+
+#🧠 Funcionamento Resumido
 Situação	LED	Servo	Buzzer	LCD
 Normal	Verde	Aberto (0°)	Desligado	Exibe valores e barra
 Alerta	Amarelo	45°	Desligado	Exibe valores e barra
 Perigo	Vermelho	Fechado (90°)	Alarme intermitente	Status PERIGO no LCD
 
-📄 Código Fonte
+
+
+#📄 Código Fonte
 O código está disponível no arquivo monitoramento_enchentes.ino. Ele está:
 
 Organizado por seções claras: leitura de sensores, lógica de decisão, controle dos atuadores, exibição no LCD.
