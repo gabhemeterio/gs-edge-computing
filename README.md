@@ -70,7 +70,7 @@ O sistema:
 
 ## 📂 Código Fonte
 
-- Arquivo: [`gs-edge-computing.ino`](.gs-edge-computing.ino)
+- Arquivo: [`gs-edge-computing.ino`](gs-edge-computing.ino)
 - Estruturado com:
   - ✅ Comentários explicativos
   - ✅ Boa indentação
